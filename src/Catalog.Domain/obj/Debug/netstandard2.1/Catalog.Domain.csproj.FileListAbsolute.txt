@@ -1,0 +1,9 @@
+D:\projets\net\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.deps.json
+D:\projets\net\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.dll
+D:\projets\net\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+D:\projets\net\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csprojAssemblyReference.cache
+D:\projets\net\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfoInputs.cache
+D:\projets\net\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfo.cs
+D:\projets\net\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+D:\projets\net\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.dll
+D:\projets\net\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.pdb
